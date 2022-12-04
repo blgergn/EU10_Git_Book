@@ -3,4 +3,4 @@
 
 I miss Java.
 
-Java is cool
+Java is cool.
